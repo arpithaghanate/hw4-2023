@@ -72,19 +72,14 @@ img{
 
 
 
-
-
-
-
-
   /* Requirement 9 code here -- Do not remove this comment. */
 
 .text{
-  self-align: center;
-  max-height: 40 vh;
+  align-self: center;
+  max-height: 40vh;
   overflow: scroll;
-  position: relative;
-  margin: auto;
+  /* position: relative;
+  margin: auto; */
 }
 
 
